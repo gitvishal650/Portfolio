@@ -48,6 +48,6 @@ Edit the `projects` array in `src/data/content.js`:
 
 ---
 
-📫 vishal.panchalz2652@gmail.com · [GitHub](https://github.com/vishalpanchal) · [LinkedIn](https://linkedin.com/in/vishalpanchal)
+📫 vishal.panchalz2652@gmail.com · [GitHub](https://github.com/gitvishal650) · [LinkedIn](https://linkedin.com/in/vishal-panchal-b8967530a/)
 
 © 2026 Vishal Panchal
